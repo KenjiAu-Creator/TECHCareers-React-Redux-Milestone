@@ -100,8 +100,6 @@
 .donationMsg {
   margin-top: 5px;
 }
-/*=============================================
-=            Tablet view            =
 @media screen and (min-width: 600px) {
   #donation-form-container {
     width: 550px;
