@@ -64,7 +64,6 @@ footer h2 {
 .newsletter-info {
   display: flex;
   flex-direction: column;
-  width: height(100% / 3);
   background-color: #4d626e;
   padding-bottom: 20px;
   color: rgba(255, 255, 255, 0.5);
@@ -130,7 +129,6 @@ footer h2 {
   cursor: pointer;
   fill: #c1862c;
 }
-/* =================Tablet BREAKPOINT================= */
 @media screen and (min-width: 600px) {
   #major-footer {
     display: flex;
@@ -175,7 +173,6 @@ footer h2 {
     transform: translateX(35px);
   }
 }
-/* =================DESKTOP BREAKPOINT================= */
 @media screen and (min-width: 1000px) {
   /*   *{outline:1px solid red;}
  */

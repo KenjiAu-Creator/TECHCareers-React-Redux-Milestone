@@ -5,14 +5,22 @@
   flex-wrap: wrap;
   width: 90%;
   height: 450px;
+<<<<<<< HEAD
   background-color: #FFF;
+=======
+  background: #4d626e;
+>>>>>>> f2f71fc339c21a5f173432f0fe65f6ddb1295821
   border-radius: 15px;
   margin: 10px auto;
-  border: solid 1px #4D626E;
+  border: solid 1px #4d626e;
 }
 .product-title {
   width: 100%;
+<<<<<<< HEAD
   color: #4D626E;
+=======
+  color: #fff;
+>>>>>>> f2f71fc339c21a5f173432f0fe65f6ddb1295821
   text-align: center;
   padding: 5px 15px 0 15px;
   max-height: 65px;
@@ -25,7 +33,7 @@
   border-radius: 15px;
   margin: 0 auto;
   border: solid white 1.5rem;
-  background-color: #FFF;
+  background-color: #fff;
   opacity: 1;
 }
 .product-image-container {
@@ -35,33 +43,54 @@
 }
 .product-card-options {
   display: grid;
+<<<<<<< HEAD
   grid-template-columns: 
   60% 40%;
   grid-template-areas: 
   "cartOption cartOption"
   "view       price";
   border-top: solid #4D626E 3px;
+=======
+  grid-template-columns: 60% 40%;
+  grid-template-areas:
+    "cartOption cartOption"
+    "view       price";
+  border-top: solid #fff 3px;
+>>>>>>> f2f71fc339c21a5f173432f0fe65f6ddb1295821
   margin: 10px auto;
   width: 90%;
 }
 .cart-option {
   text-align: left;
   grid-area: cartOption;
+<<<<<<< HEAD
   color: #4D626E;
   background-color: rgba(255,255,255,0);
+=======
+  color: #fff;
+  background-color: rgba(255, 255, 255, 0);
+>>>>>>> f2f71fc339c21a5f173432f0fe65f6ddb1295821
   font-size: 20px;
   font-weight: bold;
 }
 .product-price {
   grid-area: price;
+<<<<<<< HEAD
   color: #4D626E;
+=======
+  color: #fff;
+>>>>>>> f2f71fc339c21a5f173432f0fe65f6ddb1295821
   font-size: 30px;
 }
 .product-view-button {
   grid-area: view;
+<<<<<<< HEAD
   color: #4D626E;
+=======
+  color: #fff;
+>>>>>>> f2f71fc339c21a5f173432f0fe65f6ddb1295821
   text-align: left;
-  background-color: rgba(255,255,255,0);
+  background-color: rgba(255, 255, 255, 0);
   font-size: 20px;
   font-weight: bold;
 }
@@ -86,11 +115,10 @@
     max-height: 220px;
   }
   .product-card-options {
-    grid-template-columns: 
-    60% 40%;
-    grid-template-areas: 
-    "cartOption cartOption"
-    "view       price";
+    grid-template-columns: 60% 40%;
+    grid-template-areas:
+      "cartOption cartOption"
+      "view       price";
   }
   .product-price {
     font-size: 25px;
