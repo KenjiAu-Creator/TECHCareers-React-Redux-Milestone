@@ -102,7 +102,7 @@
 }
 @media screen and (min-width: 600px) {
   #donation-form-container {
-    width: 550px;
+    width: 575px;
   }
   #donation-amount-container {
     display: flex;
@@ -131,7 +131,7 @@
 }
 @media screen and (min-width: 1000px) {
   #donation-form-container {
-    width: 550px;
+    width: 625px;
   }
   .donation-form-section-container {
     margin-left: 40px;
@@ -139,6 +139,6 @@
   }
   #donation-amount-input-container input,
   #donation-amount-container select {
-    width: 185px;
+    width: 230px;
   }
 }
