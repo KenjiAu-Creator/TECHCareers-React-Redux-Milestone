@@ -85,7 +85,6 @@
   font-weight: bold;
   margin: 15px 0;
 }
-<<<<<<< HEAD
 .donation-form-section-container label {
   font-size: 1rem;
   font-weight: 500;
@@ -103,9 +102,6 @@
 }
 /*=============================================
 =            Tablet view            =
-=============================================*/
-=======
->>>>>>> f2f71fc339c21a5f173432f0fe65f6ddb1295821
 @media screen and (min-width: 600px) {
   #donation-form-container {
     width: 550px;
