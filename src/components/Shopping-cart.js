@@ -71,6 +71,7 @@ const ShoppingCartComponent = () => {
           {inCartProducts.map((inCartProduct) => {
             subTotal = subTotal + inCartProduct.price * inCartProduct.inCartQty;
             return (
+              <li key={inCartProduct.id}>
               <section id="cart-items">
                 <div class="container">
                   {/* <h2>Product</h2> */}
@@ -144,6 +145,7 @@ const ShoppingCartComponent = () => {
                   </span>
                 </div>
               </section>
+            </li>
             );
           })}
           <section id="items-pickup">
