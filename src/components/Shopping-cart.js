@@ -72,25 +72,6 @@ const ShoppingCartComponent = () => {
           {inCartProducts.map((inCartProduct) => {
             subTotal = subTotal + inCartProduct.price * inCartProduct.inCartQty;
             return (
-<<<<<<< HEAD
-              <li key={inCartProduct.id}>
-              <section id="cart-items">
-                <div class="container">
-                  {/* <h2>Product</h2> */}
-                  <h3>{inCartProduct.title}</h3>
-                  <img
-                    id="pdt-img"
-                    src={inCartProduct.image}
-                    alt="Image of product in shopping cart"
-                  />
-                  <section id="text-container">
-                    <p id="description">{inCartProduct.description}</p>
-                    <p id="price">$ {inCartProduct.price}</p>
-                  </section>
-                </div>
-                <div id="qty-status">
-                  <div id="cart-qty-style">
-=======
            
               <li key={inCartProduct.id}>
                 <section id="cart-items">
@@ -152,7 +133,6 @@ const ShoppingCartComponent = () => {
                         &nbsp;{" "}
                       </span>
                     </div>
->>>>>>> 4874a324d613d263ee6aa80d4e1b22790c7bc502
                     <span>
                       <button
                         type="button"
@@ -166,26 +146,8 @@ const ShoppingCartComponent = () => {
                       &nbsp;
                     </span>
                   </div>
-<<<<<<< HEAD
-                  <span>
-                    <button
-                      type="button"
-                      className="rmv-btn"
-                      onClick={() => {
-                        dispatch(RemoveFromCart(inCartProduct.id));
-                      }}
-                    >
-                      Remove From Cart
-                    </button>
-                    &nbsp;
-                  </span>
-                </div>
-              </section>
-            </li>
-=======
                 </section>
               </li>
->>>>>>> 4874a324d613d263ee6aa80d4e1b22790c7bc502
             );
            
           })} </ul>
