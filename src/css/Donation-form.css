@@ -13,7 +13,7 @@
   margin: 10px 0;
   text-align: center;
 }
-.donation-form-section-container > h2 {
+.donation-form-section-container > h2{
   margin: 5px 0;
 }
 .donation-form-section-container {
@@ -34,13 +34,19 @@
 }
 #donation-amount-id {
   width: 70%;
+<<<<<<< HEAD
   text-align: left;
   padding-left: 10px;
+=======
+  padding-left: 15px;
+>>>>>>> 4874a324d613d263ee6aa80d4e1b22790c7bc502
   border-radius: 5px;
   border-right: 0;
   border-left: 0;
   border-bottom: 1px solid #4d626e;
   border-top: 1px solid #4d626e;
+  color:#4d626e;
+  font-weight: 500;;
 }
 #donation-amount-label {
   padding-left: 10px;
