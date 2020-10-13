@@ -41,10 +41,11 @@
   border-bottom: 1px solid #4d626e;
   border-top: 1px solid #4d626e;
   color:#4d626e;
-  font-weight: 500;;
+  font-weight: 500;
 }
 #donation-amount-label {
   padding-left: 10px;
+  padding-bottom: 10px;
 }
 #donation-amount-span > svg {
   transform: translateX(-25px) scale(1.5);
@@ -140,6 +141,6 @@
   }
   #donation-amount-input-container input,
   #donation-amount-container select {
-    width: 230px;
+    width: 200px;
   }
 }
