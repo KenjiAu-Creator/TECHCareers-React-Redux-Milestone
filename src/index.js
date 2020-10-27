@@ -36,7 +36,8 @@ ReactDOM.render(
       <StickyHeaderComponent />
       <Route path="/thankyou" exact component={ThankYouPage} />{/* Order confirmation thank you page */}
       <Route path="/volnterconf" exact component={VolunteerConfPage} />{/* Volunteer application thank you page */}
-      <Route path="/" exact component={LandingPageComponent} />{/* Landing page */}
+      <Route path="" exact component={LandingPageComponent} />{/* Landing page */}
+      <Route path="/TECHCareers-React-Redux-Milestone/" exact component={LandingPageComponent} />{/* Landing page */}
       <Route path="/about" exact component={KnowUsPageComponent} /> {/* Know us page */}
       <Route path="/events" exact component={NewsEventsPageComponent} /> {/* Events and news page */}
       <Route path="/news" exact component={NewsEventsPageComponent} /> {/* Events and news page */}
