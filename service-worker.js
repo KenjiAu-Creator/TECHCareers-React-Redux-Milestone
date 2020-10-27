@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/TECHCareers-React-Redux-Milestone/precache-manifest.ad9b7d49be35258ae2123ccd6d5d2810.js"
+  "/TECHCareers-React-Redux-Milestone/precache-manifest.a7e11e6f484c0251deecf9f4fd79f4a0.js"
 );
 
 self.addEventListener('message', (event) => {

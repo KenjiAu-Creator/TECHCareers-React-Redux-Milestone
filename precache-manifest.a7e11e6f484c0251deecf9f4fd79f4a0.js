@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f461c22bdbfae3df7e3e26c51a37f6f9",
+    "revision": "df787d1ae842228195dbdf1b8d33d87d",
     "url": "/TECHCareers-React-Redux-Milestone/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TECHCareers-React-Redux-Milestone/static/css/2.8d4cdce2.chunk.css"
   },
   {
-    "revision": "df3d04a40d6ad0fdcb26",
+    "revision": "fd9c11c6e63bdc515dc2",
     "url": "/TECHCareers-React-Redux-Milestone/static/css/main.04ec16dd.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/TECHCareers-React-Redux-Milestone/static/js/2.c223a886.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "df3d04a40d6ad0fdcb26",
-    "url": "/TECHCareers-React-Redux-Milestone/static/js/main.79f613d2.chunk.js"
+    "revision": "fd9c11c6e63bdc515dc2",
+    "url": "/TECHCareers-React-Redux-Milestone/static/js/main.70f1f7ea.chunk.js"
   },
   {
     "revision": "558f053e8ebf13076394",

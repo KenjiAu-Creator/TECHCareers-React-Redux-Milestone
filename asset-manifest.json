@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/TECHCareers-React-Redux-Milestone/static/css/main.04ec16dd.chunk.css",
-    "main.js": "/TECHCareers-React-Redux-Milestone/static/js/main.79f613d2.chunk.js",
-    "main.js.map": "/TECHCareers-React-Redux-Milestone/static/js/main.79f613d2.chunk.js.map",
+    "main.js": "/TECHCareers-React-Redux-Milestone/static/js/main.70f1f7ea.chunk.js",
+    "main.js.map": "/TECHCareers-React-Redux-Milestone/static/js/main.70f1f7ea.chunk.js.map",
     "runtime-main.js": "/TECHCareers-React-Redux-Milestone/static/js/runtime-main.f2cf965b.js",
     "runtime-main.js.map": "/TECHCareers-React-Redux-Milestone/static/js/runtime-main.f2cf965b.js.map",
     "static/css/2.8d4cdce2.chunk.css": "/TECHCareers-React-Redux-Milestone/static/css/2.8d4cdce2.chunk.css",
     "static/js/2.c223a886.chunk.js": "/TECHCareers-React-Redux-Milestone/static/js/2.c223a886.chunk.js",
     "static/js/2.c223a886.chunk.js.map": "/TECHCareers-React-Redux-Milestone/static/js/2.c223a886.chunk.js.map",
     "index.html": "/TECHCareers-React-Redux-Milestone/index.html",
-    "precache-manifest.ad9b7d49be35258ae2123ccd6d5d2810.js": "/TECHCareers-React-Redux-Milestone/precache-manifest.ad9b7d49be35258ae2123ccd6d5d2810.js",
+    "precache-manifest.a7e11e6f484c0251deecf9f4fd79f4a0.js": "/TECHCareers-React-Redux-Milestone/precache-manifest.a7e11e6f484c0251deecf9f4fd79f4a0.js",
     "service-worker.js": "/TECHCareers-React-Redux-Milestone/service-worker.js",
     "static/css/2.8d4cdce2.chunk.css.map": "/TECHCareers-React-Redux-Milestone/static/css/2.8d4cdce2.chunk.css.map",
     "static/css/main.04ec16dd.chunk.css.map": "/TECHCareers-React-Redux-Milestone/static/css/main.04ec16dd.chunk.css.map",
@@ -33,6 +33,6 @@
     "static/css/2.8d4cdce2.chunk.css",
     "static/js/2.c223a886.chunk.js",
     "static/css/main.04ec16dd.chunk.css",
-    "static/js/main.79f613d2.chunk.js"
+    "static/js/main.70f1f7ea.chunk.js"
   ]
 }
